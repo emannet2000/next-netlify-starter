@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app! by Eman Manlunas" />
+        <Header title="Welcome to Doha 81 Brigade, Support Command Head Quarter" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
