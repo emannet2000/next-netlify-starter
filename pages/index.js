@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Doha 81 Brigade" />
-      
+         <p> nelson , joby, bilal, eman
         </p>
       </main>
 
