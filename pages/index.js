@@ -7,12 +7,12 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico">
       </Head>
 
       <main>
-        <Header title="Welcome to Doha 81 Brigade" />
-         <p> nelson , joby, bilal, eman
+        <Header title="Welcome to F & E Enterprises" />
+         <p> eman, beth, dondi, mama, luis, jay, tommy, yanni, shan, shawn
         </p>
       </main>
 
